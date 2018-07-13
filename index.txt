@@ -19,4 +19,13 @@ Comandos git
 
 Navegar entre versões
 
-git checkout 
+  git checkout
+
+Desfazer alterações
+
+ git clean -f
+ 
+Voltar para o estado da ultima versão
+arquivos não commitados
+
+ git reset --hard HEAD~~0
