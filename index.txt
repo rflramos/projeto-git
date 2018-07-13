@@ -1,0 +1,18 @@
+COMANDOS GIT
+
+Configuração inicial:
+
+  git config --global user.name "Condorito Silva" > 
+  git config --global user-email "email" >
+
+Iniciando o git
+
+  git init
+
+Comandos git
+
+ git status
+ git add <filename>
+ git commit -m "Descrição das alterações"
+ git log
+ git diff
