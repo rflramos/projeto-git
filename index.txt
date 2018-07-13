@@ -2,8 +2,8 @@ COMANDOS GIT
 
 Configuração inicial:
 
-  git config --global user.name "Condorito Silva" > 
-  git config --global user-email "email" >
+  git config --global user.name "Condorito Silva"
+  git config --global user-email "email"
 
 Iniciando o git
 
