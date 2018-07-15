@@ -29,3 +29,9 @@ Voltar para o estado da ultima versão
 arquivos não commitados
 
  git reset --hard HEAD~~0
+
+TAG utilizado para nomear os ponteiros de versões
+
+ git tag nomedataga
+
+É necessário fazer checkout para a versão a qual deseja normar
