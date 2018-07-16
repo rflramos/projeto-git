@@ -34,4 +34,13 @@ TAG utilizado para nomear os ponteiros de versões
 
  git tag nomedataga
 
-É necessário fazer checkout para a versão a qual deseja normar
+É necessário fazer checkout para a versão a qual deseja nomear
+
+
+Branch é uma timeline paralela e server para por exemplo 
+trabalhar uma versão de correção enquanto a versão de produção
+esta na branch principal
+ 
+ git branch nomedanovabranch
+ git checkout nomedabranch que deseja navegar
+ git branch - mostra quais branchs existem e qual branch vc esta no momento
