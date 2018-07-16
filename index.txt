@@ -44,3 +44,10 @@ esta na branch principal
  git branch nomedanovabranch
  git checkout nomedabranch que deseja navegar
  git branch - mostra quais branchs existem e qual branch vc esta no momento
+
+mesclar as informações entre branches
+
+ git merge nome da outra branch
+
+git merge master > vai efetuar o merge das alterações que foram efetuadas na branch master dentro da branch em que eu estiver
+
