@@ -51,3 +51,9 @@ mesclar as informações entre branches
 
 git merge master > vai efetuar o merge das alterações que foram efetuadas na branch master dentro da branch em que eu estiver
 
+Não criar versões de certos arquivos ou pastas
+  .gitignore - inserir dentro deste aquivo quais pastas ou arquivos serão ignorados
+site gitignote.io ajuda a criar o arquivos com diversos arquvios que serão ignorados por padrão
+
+Obs.: Após iniciar o git com o comando git init, criar o git ignore usando o gitignore.io
+
